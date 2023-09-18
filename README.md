@@ -7,6 +7,7 @@
 
 <p>Hello Coders👨‍💻 ,I am Arpan Chowdhury, a aspiring Web developer.🤖 Here is the project of the front-end Web Developement.<h2>Scientific_Calculator📲</h2>
 <p>Here is Scientific Calculator.👨🏻‍💻 I have made it using HTML,CSS & JS. It contains normal arithmetic fuctions(+,-,*,/) as well as cube , square , square root & cube root of a no. as well as trgnometric function & percentege.
+	
 - Normal Arithmetic functions
 - Trignoetric Functions
 -  Percentage
