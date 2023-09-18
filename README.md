@@ -7,12 +7,14 @@
 
 <p>Hello Coders👨‍💻 ,I am Arpan Chowdhury, a aspiring Web developer.🤖 Here is the project of the front-end Web Developement.<h2>Scientific_Calculator📲</h2>
 <p>Here is Scientific Calculator.👨🏻‍💻 I have made it using HTML,CSS & JS. It contains normal arithmetic fuctions(+,-,*,/) as well as cube , square , square root & cube root of a no. as well as trgnometric function & percentege.
+
 	
 - Normal Arithmetic functions
 - Trignoetric Functions
 -  Percentage
 -  Square, cube of a number
 -  Square root, cube root of a no.
+-  
 </p>
 I welcome you all to contribute in this repository & make this a grand project. So, what are you waiting for??🤔Just jump into it after reading the guidelines📚</p>
 
