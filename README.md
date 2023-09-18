@@ -14,7 +14,7 @@
 -  Percentage
 -  Square, cube of a number
 -  Square root, cube root of a no.
--  
+  
 </p>
 I welcome you all to contribute in this repository & make this a grand project. So, what are you waiting for??🤔Just jump into it after reading the guidelines📚</p>
 
